@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3061f7081afe69d6",
+        "id": "06e66d80edd3469f",
         "type": "tabs",
         "children": [
           {
-            "id": "5a654073f21e2ad2",
+            "id": "ee22a3a98ddb87c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cartographie/Systèmes/Tarsis.md",
+                "file": "Règlement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarsis"
+              "title": "Règlement"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cartographie/Lunes/Korax.md",
+                "file": "Règlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Korax"
+              "title": "Rétrolien pour Règlement"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cartographie/Lunes/Korax.md",
+                "file": "Règlement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Korax"
+              "title": "Plan de Règlement"
             }
           },
           {
@@ -171,34 +171,53 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Cartographie/Systèmes/Tarsis.md"
+                "file": "Règlement.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "dac8598ea1c0b78f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "random-note:Ouvre une note au hasard": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
+      "obsidian-git:Open Git source control": false,
       "canvas:Créer une nouvelle toile": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "5a654073f21e2ad2",
+  "active": "ee22a3a98ddb87c9",
   "lastOpenFiles": [
+    "Sans titre 4.base",
+    "Sans titre 3.base",
+    "Sans titre 2.base",
+    "Sans titre 1.base",
+    "Sans titre.base",
     "Règlement.md",
+    "attachments/Pasted image 20251112205611.png",
+    "attachments/Pasted image 20251112205048.png",
+    "attachments",
+    "Architecture.md",
     "Cartographie/Systèmes/Tarsis.md",
     "202511122017.md",
     "DS_CharteGraphique_0.1a_2025.pdf",
@@ -210,16 +229,10 @@
     "Cartographie/Lunes/Xarok.md",
     "Cartographie/Stations spatiales/Léo.md",
     "Cartographie/Planètes/Sandbox.md",
-    "Architecture.md",
     "Cartographie/Stations spatiales/P.O..md",
     "Cartographie/Stations spatiales/Orbitale",
     "Cartographie/Stations spatiales/Spatiale",
     "Encyclopédie/Untitled.md",
-    "Personnages",
-    "Encyclopédie/Vaisseaux  et ingéniérie",
-    "Encyclopédie/Faune et flore",
-    "Encyclopédie/Equipement",
-    "Encyclopédie/Consommables",
     "Welcome.md"
   ]
 }
