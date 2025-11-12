@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "tabSize": 2,
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "userIgnoreFilters": null
+}
