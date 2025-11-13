@@ -1,3 +1,4 @@
+![[Pasted image 20251113202220.png]]
 Symbole : Fe
 Anglais : Iron
 Elément : Natif
