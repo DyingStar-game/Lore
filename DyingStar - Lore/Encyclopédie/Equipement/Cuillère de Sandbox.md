@@ -1,4 +1,4 @@
 Type : ustensile
-matériaux :  [[Silicone]], fer
+matériaux :  [[Silicone]], [[Fer]]
 Fournisseur : [[Centre de l'abondance]]
 description : Outil pour manger sa soupe. 
