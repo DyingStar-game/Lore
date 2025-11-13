@@ -1,4 +1,8 @@
 Type : Naine Orange
+Durée de vie : 
+Stabilité : 
+
+
 
 
 
