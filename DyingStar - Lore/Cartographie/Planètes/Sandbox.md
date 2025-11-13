@@ -1,4 +1,5 @@
 Nom : Sandbox (Tarsis IV)
+Satellite naturel notable :  [[Korax]], [[Xarok]]
 Rayon In game : 2100 km
 Albedo : 0.32
 Athmosphere  : 
@@ -13,12 +14,12 @@ Masse : 0.788 M⊕
 Id : SandBox
 Périodicité : 219.77 Jours
 Rayon : 6356 km
-T_Day_K : 290
-T_Eq_K : 260
-T_Night_K : 275
-T_Surface_K : 283
-Type : "Terrestrial"
-a_AU : 0,65
-e : 0,03
-i deg : 1,5
+Température du jour : 290 K
+Température équilibre : 260 K
+Température de nuit : 275 K
+Température de surface : 283 K
+Type : Tellurique
+Distance à l'étoile : 0,65 AU
+inclinaison à écliptique  : 0,03 deg
+inclinaison axe de rotation : 1,5 deg
 
