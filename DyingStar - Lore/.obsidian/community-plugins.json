@@ -1,3 +1,9 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "colored-tags",
+  "graph-banner",
+  "dataview",
+  "obsidian-linter",
+  "tag-wrangler"
 ]

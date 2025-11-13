@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "~/Lead"
+  ],
+  "timeToRemoveLeaf": 100
+}
