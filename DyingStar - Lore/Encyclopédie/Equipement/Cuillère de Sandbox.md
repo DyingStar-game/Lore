@@ -1,3 +1,6 @@
+![[Pasted image 20251113202028.png]]
+
+
 Type : ustensile
 matériaux :  [[Silicone]], [[Fer]]
 Fournisseur : [[Centre de l'abondance]]
