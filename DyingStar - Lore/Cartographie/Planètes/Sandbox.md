@@ -23,4 +23,5 @@ Distance à l'étoile : 0,65 AU
 inclinaison à écliptique  : 0,03 deg
 inclinaison axe de rotation : 1,5 deg
 
-pitié 
+pitié que ca marche 
+
