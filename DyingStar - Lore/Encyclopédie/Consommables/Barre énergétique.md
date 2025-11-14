@@ -8,8 +8,16 @@ La Barre énergétique, surnommée la « Barre de Sève » par les ouvriers, est
     
 - **Statut Légal :** Légal 
 
-- **Composition :** (Les principaux ingrédients chimiques, biologiques ou de synthèse qui le constituent).
+- **Composition :** **  
+- Protéines synthétiques hydrolysées : 40 %
+- Farine d’insectes : 15 %
+- Lipides végétaux raffinés : 10 %
+- Fibres alimentaires solubles : 5 %
+- Humectants et agents liants : 15 %
+- Micronutriments enrichis : 5 %
+- Arômes artificiels neutres et stabilisants : 5 %
+- Agents antioxydants et conservateurs : 5 %
     
 - **Aspect et Conditionnement :** (Description de la forme, de la taille et de l'emballage. Ex: _Bloc gélifié, pilule encapsulée, liquide dans fiole en verre recyclé_).
     
-- **Goût / Odeur / Texture :** (Description des sensations relative à sa consommation).
+- **Goût / Odeur / Texture :**  sa saveur est uniformément neutre et sa texture, souvent pâteuse.
