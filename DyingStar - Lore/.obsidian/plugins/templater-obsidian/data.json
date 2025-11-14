@@ -17,6 +17,10 @@
     {
       "folder": "Personnages",
       "template": "~Lead/Templates/NoteTemplate/Personnages.md"
+    },
+    {
+      "folder": "Cartographie/Étoiles",
+      "template": "~Lead/Templates/NoteTemplate/Étoile.md"
     }
   ],
   "enable_file_templates": false,
