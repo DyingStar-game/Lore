@@ -2,7 +2,7 @@
     
 - **Nom d'Usage (Optionnel) :** Barre de sève
     
-- **Fabricant / Fournisseur :** Produit en masse par [[ARES Distribution]] et mise en vente par le [[Centre de l'abondance]]
+- **Fabricant / Fournisseur :** Produit en masse par [[ARES Distribution]] et mise en vente par le [[Centre de l'abondance]] sur Sandbox. 
 
 - **Statut Légal :** Légal
 
