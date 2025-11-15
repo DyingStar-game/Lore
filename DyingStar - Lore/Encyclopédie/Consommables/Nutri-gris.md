@@ -1,6 +1,6 @@
 - **Nom Canon :** Nutri-Gris
     
-- **Nom d'Usage (Optionnel) :** ?
+- **Nom d'Usage (Optionnel) :** Le gruau
     
 - **Fabricant / Fournisseur :** Produit en masse par [[ARES Distribution]] et mise en vente par le [[Centre de l'abondance]] de Sandbox.
     
