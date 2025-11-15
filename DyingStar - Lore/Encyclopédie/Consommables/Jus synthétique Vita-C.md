@@ -1,14 +1,18 @@
 **
-- **Nom Canon :** (Le nom officiel du produit, tel qu'il apparaît sur l'emballage ARES).
+- **Nom Canon :** Jus Vita-C
     
-- **Nom d'Usage (Optionnel) :** (Le surnom ou le terme de jargon utilisé par les personnages in game).
+- **Nom d'Usage (Optionnel) :** ?
     
-- **Fabricant / Fournisseur :** (La filiale ARES, le nom du laboratoire, ou la faction qui le produit).
-    
-- **Statut Légal :** (Légal, Rationné, Marché Noir, Prescrit, Toléré).
+- **Fabricant / Fournisseur :** Produit en masse par [[ARES Distribution]] et mise en vente par le [[Centre de l'abondance]] de Sandbox. 
+- **Statut Légal :** Légal
 
-- **Description :** (Description de la forme, de la taille et de l'emballage, ainsi que tout ce qui est relatif au gout, à la texture ou aux odeurs).
+- **Description :** Le Jus synthétique Vita-C est un concentré liquide hyper-sucré, aromatisé artificiellement qui se décline en une multitude de parfums imitant vaguement des fruits populaires et enrichi en vitamines synthétiques à faible dose. Il est vendu en sachets individuels ( Capri sun like ). Il est présenté comme un produit de santé essentiel, fournissant les vitamines minimales pour prévenir les carences graves.
     
-- **Composition :** (Les principaux ingrédients chimiques, biologiques ou de synthèse qui le constituent).
+- **Composition :** Concentré sucré : 70 %, Eau purifiée : 15 %, Arômes et colorants artificiels : 5 %, Vitamines et minéraux synthétiques : 5 %, Acidifiant et stabilisant : 2 %, Conservateurs : 3 %
+    
 
-    
+
+
+
+
+**
