@@ -1,11 +1,18 @@
-- **Nom Canon :** (Le nom officiel du produit, tel qu'il apparaît sur l'emballage ARES).
+- **Nom Canon :** Galet compressé 
     
-- **Nom d'Usage (Optionnel) :** (Le surnom ou le terme de jargon utilisé par les personnages in game).
+- **Nom d'Usage (Optionnel) :** ?
     
-- **Fabricant / Fournisseur :** (La filiale ARES, le nom du laboratoire, ou la faction qui le produit).
+- **Fabricant / Fournisseur :** Produit en masse par [[ARES Distribution]] et mise en vente par le [[Centre de l'abondance]] de Sandbox.
     
-- **Statut Légal :** (Légal, Rationné, Marché Noir, Prescrit, Toléré).
+- **Statut Légal :** Légal
 
-- **Description :** (Description de la forme, de la taille et de l'emballage, ainsi que tout ce qui est relatif au gout, à la texture ou aux odeurs).
+- **Description :** Le Galet compressé est un disque alimentaire extrêmement dur et dense, contenant des glucides à libération lente. Il est destiné aux ouvriers des puits de mine ou aux équipes de forage éloignées où les pauses sont rares. Il faut le sucer lentement ou le mâcher difficilement, ce qui permet à l'ouvrier de consommer sa ration sans s'arrêter de travailler.
     
-- **Composition :** (Les principaux ingrédients chimiques, biologiques ou de synthèse qui le constituent).
+- **Composition :** Glucides complexes à libération lente : 70 %, Protéines végétales concentrées : 10 %, Agents liants et durcissants : 15 %, Lipides neutres : 3 %, Vitamines et minéraux synthétiques : 2 %
+    
+
+
+
+
+
+**
