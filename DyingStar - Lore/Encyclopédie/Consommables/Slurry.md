@@ -1,4 +1,4 @@
-- **Nom Canon :** XXXXXXXX
+- **Nom Canon :** ?
     
 - **Nom d'Usage (Optionnel) :** La slurry
     
