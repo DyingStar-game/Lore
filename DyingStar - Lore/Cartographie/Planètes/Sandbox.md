@@ -1,5 +1,5 @@
 Nom : Sandbox (Tarsis IV)
-Satellite naturel notable :  [[Korax2]], [[Xarok2]]
+Satellite naturel notable :  [[Korax]], [[Xarok]]
 Rayon In game : 2100 km
 Albedo : 0.32
 Athmosphere  : 
