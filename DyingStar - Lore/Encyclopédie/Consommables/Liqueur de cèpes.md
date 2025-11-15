@@ -1,7 +1,7 @@
 
 - **Nom Canon :** Liqueur de cèpes 
     
-- **Nom d'Usage (Optionnel) :** 
+- **Nom d'Usage (Optionnel) :**  ? 
     
 - **Fabricant / Fournisseur :** généralement produit directement par la population civile et certains petits producteurs de Sandbox. Il est vendu dans les petits commerces indépendants des grandes villes. 
     
