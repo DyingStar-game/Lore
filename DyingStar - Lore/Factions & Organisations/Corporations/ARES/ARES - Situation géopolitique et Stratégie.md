@@ -2,7 +2,7 @@
 
 ### I. Contexte et Enjeux Géopolitiques (2425)
 
-L'année 2425 marque un tournant critique pour ARES Corporation. Forte de son monopole sur l'exploitation de la planète Sandbox, la corporation a acquis une autonomie et une puissance sans précédent, la plaçant au-dessus de toute législation. La découverte et la valeur exponentielle du Dédurium ont toutefois créé un déséquilibre de marché menaçant l'équilibre intergalactique.
+L'année 2425 marque un tournant critique pour ARES Corporation. Forte de son monopole sur l'exploitation de la planète Sandbox, la corporation a acquis une autonomie et une puissance sans précédent, la plaçant au-dessus de toute législation. La découverte et la valeur exponentielle du [[Dédurium]] ont toutefois créé un déséquilibre de marché menaçant l'équilibre intergalactique.
 
 Ce monopole bouleverse le rapport de force entre ARES et l’Autorité qui perçoit la corporation comme une menace existentielle. L'Autorité subit la pression intense de corporations rivales qui cherchent à briser ce quasi-monopole. La concession d'exploitation de Sandbox n'arrive pas formellement à son terme contractuel, mais l'Autorité a décrété qu'ARES. se livrait à une exploitation déloyale du Dédurium. La stratégie de l'Autorité est claire : déstabiliser la mégacorporation pour forcer l'ouverture du marché.
 
