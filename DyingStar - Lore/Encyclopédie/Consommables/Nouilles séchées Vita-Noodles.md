@@ -1,14 +1,19 @@
 **
-- **Nom Canon :** (Le nom officiel du produit, tel qu'il apparaît sur l'emballage ARES).
+- **Nom Canon :** Nouilles séchées Vita-Noodles
     
-- **Nom d'Usage (Optionnel) :** (Le surnom ou le terme de jargon utilisé par les personnages in game).
+- **Nom d'Usage (Optionnel) :** ?
     
-- **Fabricant / Fournisseur :** (La filiale ARES, le nom du laboratoire, ou la faction qui le produit).
+- **Fabricant / Fournisseur :** Produit par [[ARES Distribution]] et mise en vente par le [[Centre de l'abondance]] de Sandbox pour les cadres d'ARES.
     
-- **Statut Légal :** (Légal, Rationné, Marché Noir, Prescrit, Toléré).
+- **Statut Légal :** légal.
 
-- **Description :** (Description de la forme, de la taille et de l'emballage, ainsi que tout ce qui est relatif au gout, à la texture ou aux odeurs).
+- **Description :** Les nouilles séchées Vita-Noodles sont un produit semi-premium de la filiale ARES Food & Water. Elles sont composées de farines de céréales génériques et d'un mélange de protéines d'insectes raffinées et de levures de culture pour un profil nutritif élevé. Elles sont conditionnées en galettes compactes et sont entièrement déshydratées. Elles nécessitent seulement de l'eau chaude et peuvent être consommées en quelques minutes.
     
-- **Composition :** (Les principaux ingrédients chimiques, biologiques ou de synthèse qui le constituent).
+- **Composition :** Farines de céréales complètes et levure : 50 %, Protéines d’insectes raffinées : 25 %, Amidon et agents liants : 10 %, Lipides neutres : 5 %, Arômes artificiels : 5 %, Micronutriments synthétiques : 3 %, Conservateurs : 2 %
+    
 
-    
+
+
+
+
+**
