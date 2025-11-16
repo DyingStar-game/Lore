@@ -11,8 +11,8 @@ Pour obtenir une activité géologique il faudrait
 Pour que la planète ne se transforme pas en une géante il ne doit pas dépasser le seuil critique de 10 à 15 fois la masse de la terre. Cela réduit la capture de l'hydrogène et l'hélium.
 
 ### Gravité toléré 
-à court terme une gravité de 0,35 g  - 3g 
-à long terme : 2,0 g
+à court terme une gravité de 0g min  - 3g max
+à long terme : 0,35 g  min - 2,0 g max
 #### Le plus petit monde possible : 
 
  Composant du noyau  : 
