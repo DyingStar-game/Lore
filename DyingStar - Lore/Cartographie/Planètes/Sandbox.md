@@ -14,7 +14,7 @@
 
 ### II. Données Physiques et Orbitales
 
-- **Masse :** (En masses terrestres ).
+- **Masse :** 0.788 M⊕
     
 - **Dimensions :** (Rayon équatorial et circonférence).
     
