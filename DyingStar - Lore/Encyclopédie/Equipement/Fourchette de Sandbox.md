@@ -1,1 +1,1 @@
-La fourchette de sandbox fourni par Arès distribution 
+La fourchette de sandbox fourni par Arès distribution.
