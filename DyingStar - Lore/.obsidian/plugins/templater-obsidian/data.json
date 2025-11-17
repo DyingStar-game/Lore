@@ -41,6 +41,10 @@
     {
       "folder": "Encyclopédie/Matière première",
       "template": "~Lead/Templates/NoteTemplate/Matière première.md"
+    },
+    {
+      "folder": "Encyclopédie/Ressources",
+      "template": "~Lead/Templates/Ressources.md"
     }
   ],
   "enable_file_templates": false,

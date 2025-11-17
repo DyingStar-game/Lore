@@ -5,4 +5,4 @@ densité : 5.0 T/m3
 Type : Minerai
 éléments : 
 * [[Fer]] : 72.36% 
-* [[oxygen]] 27.64%
+* [[Oxygen]] 27.64%
