@@ -1,4 +1,4 @@
 Anglais : Silicone
-Formules : ∼∼∼-Si-O-Si-O-Si-O-∼∼∼
+Symbole : ∼∼∼-Si-O-Si-O-Si-O-∼∼∼
 Rôle : 
 Elément : Molécule
