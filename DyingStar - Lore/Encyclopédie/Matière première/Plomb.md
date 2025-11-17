@@ -1,5 +1,5 @@
-**Symbole** : (symbole/formule)
-**Anglais** : tin
+**Symbole** : Sn
+**Anglais** : lead
 **Elément** : Natif
-**Densité** : 7,31 T/m3
+**Densité** : 11,34 T/m3
 **Rôle** : (donne l'utilité de la molécule ou de l'élément chimique)
