@@ -37,6 +37,10 @@
     {
       "folder": "Encyclopédie/Equipement",
       "template": "~Lead/Templates/NoteTemplate/Les équipements.md"
+    },
+    {
+      "folder": "Encyclopédie/Matière première",
+      "template": "~Lead/Templates/NoteTemplate/Matière première.md"
     }
   ],
   "enable_file_templates": false,
