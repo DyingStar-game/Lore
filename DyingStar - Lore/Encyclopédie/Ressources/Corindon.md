@@ -3,4 +3,4 @@
 Symbole : Al2O3
 **éléments** : 
 * [[Aluminium]] : 52,94%
-* [[Oxygen]] : 47,06%
+* [[oxygen]] : 47,06%
