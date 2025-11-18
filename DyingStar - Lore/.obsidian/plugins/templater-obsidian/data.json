@@ -33,6 +33,18 @@
     {
       "folder": "Encyclopédie/Consommables",
       "template": "~Lead/Templates/NoteTemplate/Les consommables.md"
+    },
+    {
+      "folder": "Encyclopédie/Equipement",
+      "template": "~Lead/Templates/NoteTemplate/Les équipements.md"
+    },
+    {
+      "folder": "Encyclopédie/Matière première",
+      "template": "~Lead/Templates/NoteTemplate/Matière première.md"
+    },
+    {
+      "folder": "Encyclopédie/Ressources",
+      "template": "~Lead/Templates/Ressources.md"
     }
   ],
   "enable_file_templates": false,
