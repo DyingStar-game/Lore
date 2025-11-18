@@ -21,6 +21,18 @@
     {
       "folder": "Cartographie/Étoiles",
       "template": "~Lead/Templates/NoteTemplate/Étoile.md"
+    },
+    {
+      "folder": "Cartographie/Lunes",
+      "template": "~Lead/Templates/NoteTemplate/Les lunes.md"
+    },
+    {
+      "folder": "Cartographie/Planètes",
+      "template": "~Lead/Templates/NoteTemplate/Les planètes.md"
+    },
+    {
+      "folder": "Encyclopédie/Consommables",
+      "template": "~Lead/Templates/NoteTemplate/Les consommables.md"
     }
   ],
   "enable_file_templates": false,
