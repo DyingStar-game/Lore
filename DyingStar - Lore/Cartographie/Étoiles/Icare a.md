@@ -1,4 +1,4 @@
-**Système** : Icare
+**Système** : [[Icare]]
 **Type** : 
 **Masse** :  
 **Rayon** :  

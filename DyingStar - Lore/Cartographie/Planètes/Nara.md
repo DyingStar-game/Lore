@@ -2,7 +2,7 @@
 
 - **Nom de la Planète :** Icare N°
     
-- **Système d’Appartenance :** Icare.
+- **Système d’Appartenance :** [[Icare]]
     
 - **Position dans le Système :** (Ex: 3ème planète, ceinture habitable, ou ceinture extérieure).
     
