@@ -1,3 +1,5 @@
+![[Pasted image 20251128223900.png]]
+
 - **Nom Canon :** Nutri-Gris
     
 - **Nom d'Usage (Optionnel) :** Le gruau
