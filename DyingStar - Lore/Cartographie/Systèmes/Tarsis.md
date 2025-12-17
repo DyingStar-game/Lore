@@ -2,7 +2,7 @@
 * [[Tarsis A]]
 * Tarsis I
 * Tarsis II
-* Tarsis III
+* [[Tarsis III - Gaea]]
 * [[Tarsis IV - Sandbox]]
 * Tarsis V
 * Tarsis VI
