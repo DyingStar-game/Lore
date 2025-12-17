@@ -13,16 +13,29 @@
 
 ### II. Données Physiques et Orbitales
 
-- **Masse :** (En masses terrestres ).
+- **Masse :** (En masses terrestres).
     
 - **Dimensions :** (Rayon équatorial et circonférence).
     
-- **Gravité (Surface) :** (En G, impact sur les déplacements et l'ingénierie).
+- **Gravité (Surface) :** (En g, impact sur les déplacements et l'ingénierie).
     
-- **Vitesse de Rotation :** (Durée d'un jour sur la planète, en heures terrestres).
+- **Durée d'une Rotation :** (Durée d'un tour complet sur son axe, en heures terrestres).
+	
+- **Durée d'une Révolution :** (Durée de l'orbite complète autour de la planète-hôte, en jours terrestre).
+	 
+- **Périastre :** (La plus petite distance entre la lune et sa planète, en UA).
+	
+- **Apoastre :** (La plus grande distance entre la lune et sa planète, en UA).
+      
+- **Excentricité :** (La distance entre le centre de l'ellipse et le centre de la lune).
+	
+- **Inclinaison :** (L'angle entre l'orbite de la lune et le plan de l'ecliptique, en °).
+	
+- **Température de Surface :** (La moyenne des températures sur toute la lune).
     
-- **Température de Surface :** (La fourchette moyenne des températures).
+- **Albedo :** (La moyenne de la lumière que réfléchit ou diffuse un corps non lumineux, entre 0 et 1).
     
+
 
 ### III. Conditions Environnementales et Géographie
 

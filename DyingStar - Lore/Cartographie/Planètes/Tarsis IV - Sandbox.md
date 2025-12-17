@@ -9,7 +9,7 @@
     
 - **Type de Planète :** Tellurique
     
-- **Âge :** (En milliards d'années).
+- **Âge :** (En milliards d'années)
     
 
 ### II. Données Physiques et Orbitales

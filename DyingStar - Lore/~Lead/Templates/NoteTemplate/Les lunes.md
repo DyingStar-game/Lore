@@ -10,8 +10,6 @@
     
 - **Âge :** (En milliards d'années).
     
-- **Durée d'une Révolution :** (Durée de l'orbite complète autour de la planète hôte).
-    
 
 ### II. Caractéristiques Physiques et Dimensions
 
@@ -21,7 +19,21 @@
     
 - **Gravité (Surface) :** (En G, impact sur les déplacements et l'ingénierie).
     
-- **Vitesse de Rotation  :** (Durée d'un jour sur la Lune, en heures terrestres).
+- **Durée d'une Rotation :** (Durée d'un tour complet sur son axe, en heures terrestres).
+	
+- **Durée d'une Révolution :** (Durée de l'orbite complète autour de l'étoile-hôte, en années terrestre).
+	 
+- **Périastre :** (La plus petite distance entre la planète et son étoile, en UA).
+	
+- **Apoastre :** (La plus grande distance entre la planète et son étoile, en UA).
+      
+- **Excentricité :** (La distance entre le centre de l'ellipse et le centre de la planète).
+	
+- **Inclinaison :** (L'angle entre l'orbite de la planète et le plan de l'ecliptique, en °).
+	
+- **Température de Surface :** (La moyenne des températures sur toute la planète).
+    
+- **Albedo :** (La moyenne de la lumière que réfléchit ou diffuse un corps non lumineux, entre 0 et 1).
     
 
 ### III. Conditions Environnementales
