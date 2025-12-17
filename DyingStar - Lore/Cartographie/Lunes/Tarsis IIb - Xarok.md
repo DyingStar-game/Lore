@@ -1,10 +1,10 @@
-**
+
 
 ### I. Identification et Contexte Orbital
 
-- **Nom Officiel de la Lune :** Tarsis II a
+- **Nom Officiel de la Lune :** Tarsis IVb
     
-- **Planète Hôte :**[[Sandbox]]
+- **Planète Hôte :** [[Tarsis IV - Sandbox]]
     
 - **Système d’Appartenance :** [[Tarsis]]
     
@@ -34,3 +34,5 @@
     
 - **Danger Naturel Principal (Optionnel) :** (Ex: Forte exposition aux radiations, micro-météorites, ou forte activité sismique).
 **
+
+planète de glace

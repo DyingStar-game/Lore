@@ -1,4 +1,4 @@
-Système : [[Tarsis]]
+**Système :** [[Tarsis]]
 Type : Naine orange 
 Masse : 
 Rayon : 

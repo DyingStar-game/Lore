@@ -1,9 +1,9 @@
 
-* [[Tarsis a]]
+* [[Tarsis A]]
 * Tarsis I
 * Tarsis II
 * Tarsis III
-* [[Sandbox]]
+* [[Tarsis IV - Sandbox]]
 * Tarsis V
 * Tarsis VI
 * Tarsis VII
